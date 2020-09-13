@@ -21,6 +21,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="SByteDev.Xamarin.Android.Pdfium/bin/Release/SByteDev.Xamarin.Android.Pdfium.dll" target="lib/Xamarin.iOS10/SByteDev.Xamarin.iOS.BSImagePicker.dll" />
+    <file src="SByteDev.Xamarin.Android.Pdfium/bin/Release/SByteDev.Xamarin.Android.Pdfium.dll" target="lib/monoandroid10.0/SByteDev.Xamarin.Android.Pdfium.dll" />
   </files>
 </package>
